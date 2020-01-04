@@ -9,7 +9,12 @@
         ["Liebe", "1 TL"],
         ["Käse", "1 kg"]
       ],
-      "description": "Super Lecker Super Einfach:\nKäse hinzufügen.\nLiebe hinzufügen\nMit Käse abrunden"
+      "description": [
+        "Super Lecker Super Einfach:",
+        "Käse hinzufügen.",
+        "Liebe hinzufügen.",
+        "Mit Käse abrunden!"
+      ]
     }
   ]
 }
