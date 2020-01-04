@@ -1,0 +1,15 @@
+
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Rezept Super Lecker",
+      "ingredients": [
+        ["Käse", "1 kg"],
+        ["Liebe", "1 TL"],
+        ["Käse", "1 kg"]
+      ],
+      "description": "Super Lecker Super Einfach:\nKäse hinzufügen.\nLiebe hinzufügen\n\Mit Käse abrunden"
+    }
+  ]
+}
