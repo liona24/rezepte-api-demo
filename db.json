@@ -27,6 +27,35 @@
         "In der Zwischenzeit das Gemüse und die Kräuter waschen und klein schnippeln. Tomatenmark, Currypaste (Veganer/Vegetarier aufpassen, kann Garnelen enthalten ggf. mehr Tomatenmark verwenden), Reisessig, Öl und Sojasauce mit dem Couscous vermengen, das geht mit den Händen am besten. Das Gemüse untermischen und mit Salz, Pfeffer, Chilipulver, Kreuzkümmel und etwas Zucker abschmecken. Etwas glatte Petersilie und Zwiebellauchgrün dazugeben."
       ],
       "source": "https://www.chefkoch.de/rezepte/562321154438233/Couscous-Salat-lecker-wuerzig.html"
+    },
+    {
+      "id": 2,
+      "title": "Reissalat Mexico",
+      "ingredients": [
+        ["Reis", "2 Tassen"],
+        ["Gemüsebrühe", "4 Tassen"],
+        ["Erbsen", "100 g"],
+        ["Lauchzwiebeln", "2"],
+        ["Paprika, rot und gelb", "2"],
+        ["Mais", "150 g"],
+        ["Kidneybohnen", "1 Dose"],
+        ["Essig", "2 EL"],
+        ["Öl", "3 EL"],
+        ["Sahne", "7 EL"],
+        ["Tomatenmark", "140 g"],
+        ["Salz", ""],
+        ["Pfeffer", ""],
+        ["Zucker", ""],
+        ["Paprikapulver, edelsüß", ""],
+        ["Kräuter (Thymian, Basilikum, Lavendel)", ""],
+        ["Feta-Käse", "125 g"]
+      ],
+      "description": [
+        "Den Reis in der Gemüsebrühe nach Packungsanweisung kochen, anschließend abkühlen lassen. Die Erbsen ca. 3 Minuten in Wasser kochen, abschrecken und auskühlen lassen. Die Paprikaschoten und die Lauchzwiebeln klein schneiden. Das Gemüse mit dem Reis mischen, Mais und Kidneybohnen unterheben.",
+        "Für das Dressing Essig, Öl, Sahne und Tomatenmark miteinander verrühren. Mit Salz, Zucker, Cayennepfeffer, Paprikapulver und den Kräutern abschmecken. Unter den Reis und das Gemüse mischen, alles mindestens 2 Stunden (besser länger) ziehen lassen. Danach noch einmal abschmecken.",
+        "Zum Servieren den zerbröckelten Fetakäse über den Reissalat geben."
+      ],
+      "source": "https://www.chefkoch.de/rezepte/1082051213947068/Reissalat-Mexico.html"
     }
   ]
 }
