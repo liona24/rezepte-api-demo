@@ -3,18 +3,30 @@
   "recipes": [
     {
       "id": 1,
-      "title": "Rezept Super Lecker",
+      "title": "Couscous-Salat, lecker würzig",
       "ingredients": [
-        ["Käse", "1 kg"],
-        ["Liebe", "1 TL"],
-        ["Käse", "1 kg"]
+        ["Couscouse", "250 g"],
+        ["Gemüsebrühe oder Fond", "250 ml"],
+        ["Tomatenmark", "1 EL"],
+        ["Paprika, rot und gelb", "2"],
+        ["Mais", "1 Dose"],
+        ["Lauchzwiebeln", "4"],
+        ["Reisessig", "2 EL"],
+        ["Olivenöl", "3 EL"],
+        ["Currypaste, rot", "1 EL"],
+        ["Sojasauce", "1 EL"],
+        ["Salz und Pfeffer", ""],
+        ["Chillipulver", ""],
+        ["Kreuzkümmel", ""],
+        ["Zucker", ""],
+        ["Petersilie", ""],
+        ["Schnittlauch", ""]
       ],
       "description": [
-        "Super Lecker Super Einfach:",
-        "Käse hinzufügen.",
-        "Liebe hinzufügen.",
-        "Mit Käse abrunden!"
-      ]
+        "Den Couscous mit dem aufgekochten Fond übergießen und 10 Min. ziehen lassen. Die Flüssigkeitszugabe mit der Anweisung des Herstellers abgleichen. Je nach Typ und Hersteller kann eine unterschiedliche Menge nötig sein. Ggf. die Flüssigkeitsmenge erhöhen. ",
+        "In der Zwischenzeit das Gemüse und die Kräuter waschen und klein schnippeln. Tomatenmark, Currypaste (Veganer/Vegetarier aufpassen, kann Garnelen enthalten ggf. mehr Tomatenmark verwenden), Reisessig, Öl und Sojasauce mit dem Couscous vermengen, das geht mit den Händen am besten. Das Gemüse untermischen und mit Salz, Pfeffer, Chilipulver, Kreuzkümmel und etwas Zucker abschmecken. Etwas glatte Petersilie und Zwiebellauchgrün dazugeben.",
+      ],
+      "source": "https://www.chefkoch.de/rezepte/562321154438233/Couscous-Salat-lecker-wuerzig.html"
     }
   ]
 }
